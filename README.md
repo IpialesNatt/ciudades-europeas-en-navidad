@@ -1,4 +1,4 @@
-# ciudades-europeas-en-navidad
+# Ciudades Europeas en Navidad
 https://dribbble.com/shots/23450645-ATIRA-Animation was the page used to hepl design our web page
 This is the first entry of the project to be completed in December. It is a project that seeks to publicize different European cities during the most endearing time for many people, Christmas.
 The file is developed with HTML and CSS tools, and a framework library was used to place the contact icons with the creators of the page. 
