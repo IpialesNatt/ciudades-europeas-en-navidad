@@ -1,4 +1,5 @@
 # ciudades-europeas-en-navidad
+https://dribbble.com/shots/23450645-ATIRA-Animation was the page used to hepl design our web page
 This is the first entry of the project to be completed in December. It is a project that seeks to publicize different European cities during the most endearing time for many people, Christmas.
 The file is developed with HTML and CSS tools, and a framework library was used to place the contact icons with the creators of the page. 
 
@@ -15,8 +16,9 @@ Headed with the name of the city and a background representative of the city at 
 
 The program has been created using visual studio code, with the W3C validation, XML and XML tolds extensions.
 
-Autor:
-Nataly Alexandra Ipiales Barrigas 
 
 Thanks: 
 To Vistoria and Hatem for their help 
+
+Autor:
+Nataly Alexandra Ipiales Barrigas 
