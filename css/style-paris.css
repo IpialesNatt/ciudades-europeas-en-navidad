@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+h1 {
+    color: rgb(1, 0, 0);
+    text-align: center;
+}
+
+
+.tittle {
+    justify-content: space-evenly;
+    align-items: end;
+    padding: 10%;
+    background-color: rgb(198, 43, 15);
+    flex-wrap: wrap;
+    font-size: 3em;
+    background-image: url(../img/img-back-paris.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 1600px;
+}
+
+
+.introduction-mad {
+    flex-direction: row;
+    padding: 5%;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+p {
+    text-align: justify;
+    font-size: 1.5em;
+    flex-shrink: initial;
+}
+
+
+.mad-city {
+    flex-direction: row;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgba(52, 78, 1, 0.212);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    align-items: center;
+    background-image: url(../img/img-back-mad1.jpeg);
+    background-size: contain;
+    background-size: 95em;
+}
+
+
+.mad-puertadelsol {
+    flex-direction: row;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(96, 142, 3);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    align-items: center;
+    background-image: url(../img/img-back-mad2.jpeg);
+    background-size: contain;
+    background-size: 95em;
+}
+
+
+.mad-jardin-botanico {
+    flex-direction: row;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(96, 142, 3);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    align-items: center;
+    background-image: url(../img/img-back-mad3.jpeg);
+    background-size: contain;
+    background-size: 95em;
+}
+
+
+.mad-navidadesmagicas {
+    flex-direction: row;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(96, 142, 3);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    align-items: center;
+    background-image: url(../img/img-back-mad4.jpeg);
+    background-size: contain;
+    background-size: 95em;
+}
+
+
+.text {
+    flex-direction: row;
+    padding: 5%;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+
+h2 {
+    text-align: justify;
+    font-size: 2em;
+    display: flex;
+    padding: 5%;
+    text-align: justify;
+}
+
+
+img {
+    width: 20em;
+    height: 20em;
+}
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
